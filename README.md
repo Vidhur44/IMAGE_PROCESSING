@@ -1,8 +1,7 @@
 # Image-processing
-
 1) The o_to_bw file is a java file which converts a color image to a black and white image.
 
-#Method of approach
+METHOD OF APPROACH
 
 
 *Must have little knowledge about pixels,RGB.
