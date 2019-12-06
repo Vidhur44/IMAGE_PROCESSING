@@ -10,6 +10,6 @@
 
 *Next,get the width and height of the image and run through a loop to cover the entire image.
 
-*Get the ARBG values and find average of RBG and replace the individual RGB values with the avergae.
+*Get the ARBG values and find average of RBG and replace the individual RGB values with the average.
 
 *Finally,create an output file and write the file into the folder specified with the image format.
